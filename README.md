@@ -1,5 +1,5 @@
 # A simple proxy server for using OpenAI anywhere
-> :warning: Make sure you have a server which can access OpenAI API.
+> :warning: Make sure you have a server which can directly access OpenAI API(https://api.openai.com).
 
 ## How to use
 ```bash
