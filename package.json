@@ -1,0 +1,12 @@
+{
+  "name": "openai-proxy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "http-proxy-middleware": "^2.0.6"
+  }
+}
